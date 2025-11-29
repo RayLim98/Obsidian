@@ -203,3 +203,47 @@ Dragon island
         - scroll of nightmares
     - Cloak 
     - Insect Armour
+
+
+### dungeon mini game
+**loot**ß
+- random lance
+- elvish book
+ Entered chambers with big ongabonga and wizard
+
+
+## Side story (after we get the poison sword)
+- Main street 
+	- Church
+	- Lumberjack
+	- bookstore 
+	- odds at ends store
+- Victim
+	- Worked at diner
+	- Gravyard shift 
+Flash back
+- Sha was framed
+- Acolytes of Sha dark jestisiers
+	- Theycame back to life
+	- Once revealed they the symbol of Tylona
+Cieric - God fo lies
+- Achievements
+	- Became stronger (embellished stories)
+		- Plane hopping
+		- control time
+		- beats up dragons
+		- Taller than a goliath
+- History
+	- Origin mostly unknown
+	- Born a human and took over the role of god
+
+Church (Barn)
+Miners
+Waterwhell
+Repair wall
+
+Mark is the killer
+Mayor seems sus
+
+
+##

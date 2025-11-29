@@ -6,6 +6,7 @@
       {
         "id": "013ef6462a0f3936",
         "type": "tabs",
+        "dimension": 74.71098265895954,
         "children": [
           {
             "id": "5a69b329124b84e2",
@@ -26,6 +27,7 @@
       {
         "id": "72bd45d63dc4176f",
         "type": "tabs",
+        "dimension": 25.289017341040466,
         "children": [
           {
             "id": "353db1684573a254",
@@ -187,7 +189,8 @@
   },
   "active": "5a69b329124b84e2",
   "lastOpenFiles": [
-    "Welcome.md",
-    "The story thus far.md"
+    "Untitled.canvas",
+    "The story thus far.md",
+    "Welcome.md"
   ]
 }

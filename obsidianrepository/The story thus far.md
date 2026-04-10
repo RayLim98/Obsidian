@@ -244,6 +244,25 @@ Repair wall
 
 Mark is the killer
 Mayor seems sus
+### After the lich dies
+- Tessa looking for ancient artifact 
+- laboratory
+	- enchatment books
+		- Took the **middle book**
+	- fragment weapon/spear
+		- triton design
+		- top part of the spear
+- Hipyo touches stone
+	- scene of translucent figures approaching him
+	- Is a essence stone
+		- HOLDS the souls of the dead
+		- Trying to the souls
+		- Soul of the human lich approches
+			- frees other souls
+- Secret door found by Tentomushi
+- We take the sword that looks like Tessa's sword
+	- its a Dwarvish sword
+- Ajax's brother returns to the "Kingdom"
 
 
-##
+### Landing on Thenadore

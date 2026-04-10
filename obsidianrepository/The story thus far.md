@@ -265,4 +265,13 @@ Mayor seems sus
 - Ajax's brother returns to the "Kingdom"
 
 
-### Landing on Thenadore
+## Thenadore
+- Goblin fight club
+- we've killed alot of them
+- everyone got teleported 
+### Main town has been attacked
+- lizard people
+- fluffy thing pushing a boulder
+- pidan dies
+- Town Sylk, where the lizard people went to
+	- Where my sensei retired 
